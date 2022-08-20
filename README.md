@@ -14,6 +14,8 @@ CURSANDO TSI 👩🏻‍💻
  
   <a href="https://instagram.com/thany_eleuterio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/fdccdf4b5dc40378136d365f2edcda44.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+ 
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/fdccdf4b5dc40378136d365f2edcda44.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
